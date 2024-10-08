@@ -13,7 +13,7 @@ namespace CalculatorLibrary
             Trace.AutoFlush = true;
             Trace.Write("Testing123");
             Trace.Write("ABC");
-            Trace.Write("Foo");
+            Trace.Write("testing");
             Trace.WriteLine("Starting Calculator Log");
             Trace.WriteLine(String.Format("Started {0}", System.DateTime.Now.ToString()));
         }
