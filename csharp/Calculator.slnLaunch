@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "Normal",
+    "Projects": [
+      {
+        "Path": "Calculator\\Calculator.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Calculator.Library\\Calculator.Library.csproj",
+        "Action": "Start",
+        "DebugTarget": "Calculator.Library"
+      }
+    ]
+  }
+]
